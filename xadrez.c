@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Desafio de Xadrez - MateCheck
-// Névil Novato 
+// Nível Novato 
 
 int main() {
     // Movimento da Torre (5 casas para a direita usando for)
